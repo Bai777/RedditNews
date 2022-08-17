@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidProjects/RedditNews/app/src/main/res/drawable/ic_comment.xml" value="0.239" />
+        <entry key="..\:/AndroidProjects/RedditNews/app/src/main/res/drawable/ic_score.xml" value="0.239" />
         <entry key="..\:/AndroidProjects/RedditNews/app/src/main/res/layout/activity_main.xml" value="0.2545289855072464" />
+        <entry key="..\:/AndroidProjects/RedditNews/app/src/main/res/layout/fragment_main.xml" value="0.1546875" />
+        <entry key="..\:/AndroidProjects/RedditNews/app/src/main/res/layout/reddit_post_recycler_item.xml" value="0.2545289855072464" />
       </map>
     </option>
   </component>
